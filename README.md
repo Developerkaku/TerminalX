@@ -7,5 +7,4 @@
 ## Statements
 Use these statements to do the required task
 - Error free statements include :
-  - reload //Reloads the page 
-  - close //Closes the page ( broken in mobile browsers )
+  - reload //Reloads the page
